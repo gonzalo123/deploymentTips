@@ -1,6 +1,4 @@
 <?php
-include __DIR__ . "/../App.php";
-
 class AppTest extends PHPUnit_Framework_TestCase
 {
     public function testEnvironDevelopment()
